@@ -1,4 +1,5 @@
 Terms:
+
 AI = Artificical inteligence
 
 LLMs = Large Language Models
