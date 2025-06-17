@@ -26,6 +26,8 @@ In addition, my struggles are making mistakes within the code such as the habit 
 
 ### I have included screenshots on the documents/screenshots folder to show how the program response to error, questions, and answers.
 
+### You can use http://127.0.0.1:8000/docs by inputting it in your browser, or you can use a free tool called Postman
+
 ### Disclaimer
 
 I am learning, experimenting, and practicing with coding. I am exploring different tools, techniques, and programming languages to enhance my skills. This is code is experimental and intended for educational purposes only.
