@@ -24,6 +24,8 @@ e) @app.put() is responsible for managing patch requests
 
 In addition, my struggles are making mistakes within the code such as the habit to forget to include ":" or delete ")" by mistake. As well as the rate limit to experiment and learn about the difference with AI models. I did not use the LM Studio application for all my projects, so I had to create multiple accounts when needed to generate a key and start fresh because, and I will note that; not all AI models reset their limit such as Deepinfra.
 
+### I would also like to note that when you write a proper sentence, the quality of AI-generated answers will improve.
+
 ### I have included screenshots on the documents/screenshots folder to show how the program response to error, questions, and answers.
 
 ### You can use http://127.0.0.1:8000/docs by inputting it in your browser, or you can use a free tool called Postman
